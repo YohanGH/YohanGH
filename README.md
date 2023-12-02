@@ -12,7 +12,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="/img/Zen2.png" title="banner" height="auto" width="2000" alt="Banner">
+  <img src="/img/Zen2_By_YohanGH.png" title="banner" height="auto" width="2000" alt="Banner">
 </div>
 
 ## About me

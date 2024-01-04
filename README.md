@@ -15,8 +15,12 @@
   <img src="/img/Zen2_By_YohanGH.png" title="banner" height="auto" width="2000" alt="Banner">
 </div>
 
+<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yohanGH&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## About me
 <div align="left">
+  <!-- My Contact -->
+  <a href="https://www.linkedin.com/in/yohan-regnier-5a2505254" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="60" width="100"></a>
   <!-- Your About Me Section -->
   <p>As a passionate IT enthusiast currently immersed in <strong>full-stack</strong> development studies, I am on a journey to become a proficient developer. My passion for technology drives me to explore various aspects of software development, from frontend to backend technologies. With each project and course, I'm building a strong foundation to achieve my goal of becoming a skilled and innovative developer in the tech industry.</p>
 </div>
@@ -123,12 +127,6 @@
 <p align="left">
   <a href="https://github.com/yohangh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-## Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="60" width="100"></a>
-  <!-- Add more links as needed -->
-</div>
 
 ## Stats and Activity
 

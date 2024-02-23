@@ -98,12 +98,15 @@
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Anki" src="https://img.shields.io/badge/Anki-1685F2?logo=anki&logoColor=white"></a>
+      <a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?logo=tor&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="VeraCrypt" src="https://img.shields.io/badge/VeraCrypt-ED1C24?logo=veracrypt&logoColor=white"></a>
       <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"></a>
       <a href="#"><img alt="KeePass" src="https://img.shields.io/badge/KeePass-3CDDFF?logo=keepass&logoColor=white"></a>
+      <a href="#"><img alt="OSINT" src="https://img.shields.io/badge/OSINT-0273B1?logo=osint&logoColor=white"></a>
       <!-- Add more software and tools as needed -->
   </p>
 

@@ -79,7 +79,7 @@
       🚧<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       🚧<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vit&logoColor=white"></a>
-      🚧<a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
+      <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
       <a href="#"><img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-1F4E5F?logo=mermaid&logoColor=white"></a>
       <!-- Add more frameworks and libraries as needed -->
   </p>
@@ -115,7 +115,6 @@
       <a href="#"><img alt="KeePass" src="https://img.shields.io/badge/KeePass-3CDDFF?logo=keepass&logoColor=white"></a>
       <a href="#"><img alt="OSINT" src="https://img.shields.io/badge/OSINT-0273B1?logo=osint&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
 </p>
       <!-- Add more software and tools as needed -->
   </p>

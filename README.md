@@ -87,8 +87,8 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <!-- Databases and Cloud Hosting -->
-      🚧<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
-      🚧<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
       🚧<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       🚧<a href="#"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-000000.svg?logo=nosql&logoColor=white"></a>
       <!-- Add more databases and cloud hosting platforms as needed -->

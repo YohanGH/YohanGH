@@ -30,16 +30,16 @@
   <h3>🌟 Core Skills</h3>
   <p>
     <!-- Replace these with your core skills -->
-    <b>Web Development:</b> Proficient in HTML, CSS, JavaScript.🚧<br>
-    <b>Backend Development:</b> 🚧<br>
-    <b>Database Management:</b> 🚧<br>
+    <b>Web Development:</b> Proficient in HTML, CSS, JavaScript, TypeScript.🚧<br>
+    <b>Backend Development:</b> Express<br>
+    <b>Database Management:</b> MySQL<br>
     <b>Version Control:</b> Proficient with Git and GitHub workflows.<br>
   </p>
 
   <h3>🛠️ Tools & Technologies</h3>
   <p>
     <!-- List tools and technologies you are familiar with -->
-    <b>IDEs:</b> Visual Studio Code, Vim.<br>
+    <b>IDEs:</b> Vim, vscodium, Cursor, Visual Studio Code.<br>
     <b>Operating Systems:</b> Linux, Debian, macOS, Windows.<br>
     <b>Other Tools:</b> 🚧<br>
   </p>
@@ -65,6 +65,7 @@
   <p>
       <!-- Programming and Markup Languages -->
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-79B8FF.svg?logo=TypeScript&logoColor=black"></a>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -80,6 +81,7 @@
       <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vit&logoColor=white"></a>
       <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
+      <a href="#"><img alt="bun" src="https://img.shields.io/badge/bun-F9F1E1.svg?logo=bun&logoColor=white"></a>
       <a href="#"><img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-1F4E5F?logo=mermaid&logoColor=white"></a>
       <!-- Add more frameworks and libraries as needed -->
   </p>

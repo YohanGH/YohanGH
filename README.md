@@ -30,9 +30,9 @@
   <h3>🌟 Core Skills</h3>
   <p>
     <!-- Replace these with your core skills -->
-    <b>Web Development:</b> Proficient in HTML, CSS, JavaScript, TypeScript.🚧<br>
+    <b>Web Development:</b> Proficient in HTML, CSS, JavaScript, TypeScript🏗️, Solodity🏗️<br>
     <b>Backend Development:</b> Express<br>
-    <b>Database Management:</b> MySQL<br>
+    <b>Database Management:</b> MySQL, SQLite🏗️<br>
     <b>Version Control:</b> Proficient with Git and GitHub workflows.<br>
   </p>
 
@@ -66,6 +66,7 @@
       <!-- Programming and Markup Languages -->
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-79B8FF.svg?logo=TypeScript&logoColor=black"></a>
+      <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=Solidity&logoColor=white"></a>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -80,6 +81,7 @@
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vit&logoColor=white"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white"></a>
       <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
       <a href="#"><img alt="bun" src="https://img.shields.io/badge/bun-F9F1E1.svg?logo=bun&logoColor=white"></a>
       <a href="#"><img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-1F4E5F?logo=mermaid&logoColor=white"></a>
@@ -101,6 +103,7 @@
       <!-- Software and Tools -->
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"></a>
       <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-007ACC?logo=vscodium&logoColor=white"></a>
+      <a href="#"><img alt="Code Editor" src="https://img.shields.io/badge/Code_Editor-007ACC.svg?logo=VisualStudioCode&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>

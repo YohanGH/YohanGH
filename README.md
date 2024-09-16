@@ -135,7 +135,6 @@
   </p>
 </div>
 
-
 ## Top Open Source
 <!-- Your Top Repositories -->
 [![Configuration_Vim](https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=configuration_vim&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/YohanGH/Configuration_Vim)
@@ -143,6 +142,16 @@
 <p align="left">
   <a href="https://github.com/yohangh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+
+## 🏆 Hackathon Wins
+
+<div align="center">
+  
+  <!-- Hackathon 1 -->
+  <a href="[https://hackathon-link-1.com](https://ethglobal.com/events/ethonline2024)" target="_blank">🏆</a>
+  <p><strong>Hackathon ETHOnline 2024</strong> - 🪚 Best Tooling for the Blockless Network</p>
+
+</div>
 
 ## Stats and Activity
 

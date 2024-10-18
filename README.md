@@ -148,8 +148,9 @@
 <div align="center">
   
   <!-- Hackathon 1 -->
-  <a href="[https://hackathon-link-1.com](https://ethglobal.com/events/ethonline2024)" target="_blank">🏆</a>
-  <p><strong>Hackathon ETHOnline 2024</strong> - 🪚 Best Tooling for the Blockless Network</p>
+  <a href="[https://hackathon-link-1.com](https://ethglobal.com/events/ethonline2024)" target="_blank">🏆 🏆</a>
+  <p><strong>Hackathon ETHOnline - 2024</strong> - 🪚 Best Tooling for the Blockless Network</p>
+  <p><strong>Hackathon Neo X Grind by Encode Club- 2024</strong> - 🏗️ Build Yield Aggregators</p>
 
 </div>
 

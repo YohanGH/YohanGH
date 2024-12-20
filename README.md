@@ -155,9 +155,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YohanGH&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ## 📊 Stats and Activity
 
 <p align="center">
@@ -180,3 +177,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YohanGH&custom_title=YohanGH's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="YohanGH's GitHub Activity Graph">
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YohanGH&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)

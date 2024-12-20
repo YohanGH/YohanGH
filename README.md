@@ -155,7 +155,10 @@
 
 </div>
 
-## Stats and Activity
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YohanGH&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+## 📊 Stats and Activity
 
 <p align="center">
   <a href="https://github.com/YohanGH">

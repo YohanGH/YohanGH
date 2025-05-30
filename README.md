@@ -28,34 +28,35 @@
 ## Skills
 <div align="left">
   <h3>🌟 Core Skills</h3>
-  <p>
-    <!-- Replace these with your core skills -->
-    <b>Web Development:</b> Proficient in HTML, CSS, JavaScript, TypeScript🏗️, Solodity🏗️<br>
-    <b>Backend Development:</b> Express<br>
-    <b>Database Management:</b> MySQL, SQLite🏗️<br>
-    <b>Version Control:</b> Proficient with Git and GitHub workflows.<br>
-  </p>
+<p>
+  <b>Web Development :</b> HTML, CSS, JavaScript, TypeScript, Solidity, React.<br>
+  <b>Backend Development :</b> Express, Node.js, GraphQL, RESTful APIs.<br>
+  <b>Database Management :</b> MySQL, PostgreSQL, SQLite, Redis.<br>
+  <b>Authentication & Security :</b> JWT, OAuth2, HTTPS, CORS, OWASP best practices.<br>
+  <b>Version Control :</b> Git, GitHub/GitLab workflows, CI/CD (GitHub Actions).<br>
+  <b>Testing :</b> Jest, Mocha, Chai, Cypress, Test-Driven Development (TDD).<br>
+</p>
 
-  <h3>🛠️ Tools & Technologies</h3>
-  <p>
-    <!-- List tools and technologies you are familiar with -->
-    <b>IDEs:</b> Vim, vscodium, Cursor, Visual Studio Code.<br>
-    <b>Operating Systems:</b> Linux, Debian, macOS, Windows.<br>
-    <b>Other Tools:</b> 🚧<br>
-  </p>
+<h3>🛠️ Tools & Technologies</h3>
+<p>
+  <b>IDEs & Editors :</b> Vim, VSCodium, Cursor, VS Code.<br>
+  <b>Build & Bundling :</b> Webpack, Rollup, Parcel, Vite, npm/yarn/pnpm.<br>
+  <b>Containerization & DevOps :</b> Docker, Kubernetes.<br>
+  <b>Cloud Platforms :</b> AWS (EC2, S3, Lambda), Azure, GCP.<br>
+  <b>API Testing & Collaboration :</b> Postman, Insomnia, Swagger/OpenAPI.<br>
+  <b>Other Tools :</b> ElasticSearch, GraphQL Playground.<br>
+</p>
 
-  <h3>📚 Learning and Development</h3>
-  <p>
-    <!-- Mention any areas you are currently learning or wish to develop further -->
-    Upcoming focus: Machine Learning and AI basics<br>
-  </p>
-  
-  <h3>🔍 Soft Skills</h3>
-  <p>
-    <!-- List your soft skills -->
-    Effective Communication, Team Collaboration, Problem Solving, Adaptability, Time Management<br>
-  </p>
-</div>
+<h3>📚 Learning & Development</h3>
+<p>
+  Upcoming focus : Machine Learning & AI basics (scikit-learn, TensorFlow), **DevSecOps**, **Web3 & Smart Contract Auditing**, **Serverless Architecture**.<br>
+</p>
+
+<h3>🔍 Soft Skills</h3>
+<p>
+  Effective Communication, Team Collaboration, Problem Solving, Adaptability, Time Management, **Critical Thinking**, **Leadership**, **Conflict Resolution**, **Creative Innovation**.<br>
+</p>
+
 
 
 ## Use To Code
@@ -157,25 +158,9 @@
 
 ## 📊 Stats and Activity
 
-<p align="center">
-  <a href="https://github.com/YohanGH">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YohanGH&theme=radical&border=7F3FBF&background=0D1117" alt="YohanGH's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YohanGH">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YohanGH&theme=radical" alt="YohanGH's GitHub Contribution"/>
-  </a>
-</p>
-
 <div> 
   <a href="https://github.com/YohanGH"><img alt="YohanGH's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=YohanGH&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/YohanGH"><img alt="YohanGH's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YohanGH&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YohanGH&custom_title=YohanGH's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="YohanGH's GitHub Activity Graph">
 </div>
 
 ## 🏆 GitHub Trophies

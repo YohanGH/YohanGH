@@ -120,6 +120,51 @@ Full-stack developer passionate about building innovative solutions. Currently e
 
 </details>
 
+## 🛰️ LexOrbital – Modular Architecture Lab
+
+<div align="center">
+  <em>
+    Station-style web architecture: a legal & technical Meta-Kernel, front/back rings,
+    and plug-and-play modules designed for autonomy, compliance and reuse.
+  </em>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="55%" align="left">
+      <h4>🧭 What is LexOrbital?</h4>
+      <ul>
+        <li><strong>Meta-Kernel:</strong> shared legal & technical core (RGPD, security, conventions) that acts as a “code civil” for all modules.</li>
+        <li><strong>Front / Back Rings:</strong> stable docking interfaces for UI and backend services, inspired by hexagonal / ports & adapters architecture.</li>
+        <li><strong>Plug-and-Play Modules:</strong> autonomous, versioned modules (auth, audit, CI/CD, infra…) that can be attached or replaced without breaking the station.</li>
+        <li><strong>Living Documentation:</strong> manifests drive diagrams and docs so the architecture stays readable and self-describing over time.</li>
+      </ul>
+      <p>
+        LexOrbital is my personal laboratory for <strong>system design, governance and developer experience</strong>:
+        a way to think in terms of contracts, orbits and long-lived structures instead of one-off apps.
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <h4>🧩 First building block</h4>
+      <a href="https://github.com/YohanGH/lexorbital-template-module">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-template-module&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+          alt="LexOrbital Template Module"
+        />
+      </a>
+      <br />
+      <sub>
+        Standardised environment for LexOrbital modules (TypeScript, tooling, commits, security & conventions by design).
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
 ## Featured Projects
 
 <div align="center">

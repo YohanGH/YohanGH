@@ -12,8 +12,9 @@
   <img src="/img/Zen2_By_YohanGH.png" title="banner" height="auto" width="2000" alt="Banner">
 </div>
 
-<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yohanGH&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" src="/img/buymeacoffee.png" /></a>
 
+<!-- Abour -->
 ## About Me
 
 <p align="center">
@@ -24,6 +25,7 @@
 
 Full-stack developer passionate about building innovative solutions. Currently expanding my expertise across the entire development stack, from modern frontend frameworks to scalable backend architectures. I thrive on tackling complex challenges and continuously learning new technologies to deliver high-quality, maintainable code.
 
+<!-- Skill -->
 ## 💼 Skills & Expertise
 
 <table>
@@ -89,6 +91,7 @@ Full-stack developer passionate about building innovative solutions. Currently e
 **Design & Productivity:** Figma • Obsidian • Notion • Mermaid  
 **Other:** ElasticSearch • Stripe • Postman • Swagger/OpenAPI
 
+<!-- Operating Systems -->
 **Operating Systems:**  
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
@@ -120,6 +123,7 @@ Full-stack developer passionate about building innovative solutions. Currently e
 
 </details>
 
+<!-- LexOrbital -->
 ## 🛰️ LexOrbital – Modular Architecture Lab
 
 <div align="center">
@@ -136,18 +140,29 @@ Full-stack developer passionate about building innovative solutions. Currently e
     <td width="55%" align="left">
       <h4>🧭 What is LexOrbital?</h4>
       <ul>
-        <li><strong>Meta-Kernel:</strong> shared legal & technical core (RGPD, security, conventions) that acts as a “code civil” for all modules.</li>
+        <li><strong>Meta-Kernel (lexorbital-core):</strong> shared legal & technical core (RGPD, security patterns, manifests, conventions) acting as a “code civil” for all modules.</li>
         <li><strong>Front / Back Rings:</strong> stable docking interfaces for UI and backend services, inspired by hexagonal / ports & adapters architecture.</li>
-        <li><strong>Plug-and-Play Modules:</strong> autonomous, versioned modules (auth, audit, CI/CD, infra…) that can be attached or replaced without breaking the station.</li>
-        <li><strong>Living Documentation:</strong> manifests drive diagrams and docs so the architecture stays readable and self-describing over time.</li>
+        <li><strong>Plug-and-Play Modules:</strong> autonomous, versioned modules (auth, audit, CI/CD, infra…) that can be attached, upgraded or replaced without breaking the station.</li>
+        <li><strong>Living Documentation:</strong> manifests drive diagrams and docs so the architecture stays <em>self-describing</em> over time.</li>
       </ul>
       <p>
-        LexOrbital is my personal laboratory for <strong>system design, governance and developer experience</strong>:
-        a way to think in terms of contracts, orbits and long-lived structures instead of one-off apps.
+        LexOrbital is my personal laboratory for <strong>system design, security governance and developer experience</strong>:
+        thinking in terms of <em>contracts, orbits and long-lived structures</em> instead of one-off apps.
+      </p>
+      <h4>🛡️ Security & Compliance by-Design / by-Default</h4>
+      <br />
+      <p>
+        👉 <strong>Project board:</strong>
+        <a href="https://github.com/users/YohanGH/projects/9">LexOrbital – Architecture & RGPD by design</a>
       </p>
     </td>
     <td width="45%" align="center">
-      <h4>🧩 First building block</h4>
+      <h4>🧩 Core & Template Repositories</h4>
+      <sub>
+        <strong>Meta-Kernel:</strong> manifests, security patterns, module orchestration, and shared conventions.
+      </sub>
+      <br /><br />
+      <!-- Template module repo card -->
       <a href="https://github.com/YohanGH/lexorbital-template-module">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-template-module&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
@@ -156,7 +171,7 @@ Full-stack developer passionate about building innovative solutions. Currently e
       </a>
       <br />
       <sub>
-        Standardised environment for LexOrbital modules (TypeScript, tooling, commits, security & conventions by design).
+        <strong>Standardised environment:</strong> TypeScript, ESLint, Prettier, Husky, conventional commits, SemVer & CI.
       </sub>
     </td>
   </tr>
@@ -164,7 +179,9 @@ Full-stack developer passionate about building innovative solutions. Currently e
 
 <br />
 
+<br />
 
+<!-- Featured Projects -->
 ## Featured Projects
 
 <div align="center">

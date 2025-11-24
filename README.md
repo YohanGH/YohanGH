@@ -12,7 +12,7 @@
   <img src="/img/Zen2_By_YohanGH.png" title="banner" height="auto" width="2000" alt="Banner">
 </div>
 
-<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" src="/img/buymeacoffee.png" /></a>
+<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" src="/img/bmc-button.png" /></a>
 
 <!-- Abour -->
 ## About Me

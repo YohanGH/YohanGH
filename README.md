@@ -1,25 +1,27 @@
 <!-- Visitor Counter -->
 <a href="https://komarev.com/ghpvc/?username=YohanGH">
-  <img align="right" src="https://komarev.com/ghpvc/?username=YohanGH&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor counter" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=YohanGH&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor counter" heigth="auto" width="130" />
 </a>
 
-  <h1 align="center">
-  Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
-  </h1>
+<br />
+
+<h1 align="center">
+Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
+</h1>
 
 <!-- Banner -->
 <div align="center">
   <img src="/img/Zen2_By_YohanGH.png" title="banner" height="auto" width="2000" alt="Banner">
 </div>
 
-<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" width="200" src="/img/bmc-button.png" /></a>
+<a href="https://www.buymeacoffee.com/yohanGH"><img align="right" width="200" src="/img/bmc-button.png"/></a>
 
 <!-- Abour -->
 ## About Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yohan-regnier-5a2505254" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="auto" width="200">
   </a>
 </p>
 

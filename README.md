@@ -21,7 +21,7 @@ Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yohan-regnier-5a2505254" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="auto" width="200">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="auto" width="120">
   </a>
 </p>
 

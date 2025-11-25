@@ -25,7 +25,11 @@ Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
   </a>
 </p>
 
-Full-stack developer passionate about building innovative solutions. Currently expanding my expertise across the entire development stack, from modern frontend frameworks to scalable backend architectures. I thrive on tackling complex challenges and continuously learning new technologies to deliver high-quality, maintainable code.
+<br />
+
+> Full-stack developer passionate about building innovative solutions. Currently expanding my expertise across the entire development stack, from modern frontend frameworks to scalable backend architectures. I thrive on tackling complex challenges and continuously learning new technologies to deliver high-quality, maintainable code.
+
+<br />
 
 <!-- Skill -->
 ## 💼 Skills & Expertise
@@ -125,6 +129,8 @@ Full-stack developer passionate about building innovative solutions. Currently e
 
 </details>
 
+<br />
+
 <!-- LexOrbital -->
 ## 🛰️ LexOrbital – Modular Architecture Lab
 
@@ -178,8 +184,6 @@ Full-stack developer passionate about building innovative solutions. Currently e
     </td>
   </tr>
 </table>
-
-<br />
 
 <br />
 

@@ -143,47 +143,141 @@ Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
 
 <br />
 
-<table>
-  <tr>
-    <td width="55%" align="left">
-      <h4>🧭 What is LexOrbital?</h4>
-      <ul>
-        <li><strong>Meta-Kernel (lexorbital-core):</strong> shared legal & technical core (RGPD, security patterns, manifests, conventions) acting as a “code civil” for all modules.</li>
-        <li><strong>Front / Back Rings:</strong> stable docking interfaces for UI and backend services, inspired by hexagonal / ports & adapters architecture.</li>
-        <li><strong>Plug-and-Play Modules:</strong> autonomous, versioned modules (auth, audit, CI/CD, infra…) that can be attached, upgraded or replaced without breaking the station.</li>
-        <li><strong>Living Documentation:</strong> manifests drive diagrams and docs so the architecture stays <em>self-describing</em> over time.</li>
-      </ul>
-      <p>
-        LexOrbital is my personal laboratory for <strong>system design, security governance and developer experience</strong>:
-        thinking in terms of <em>contracts, orbits and long-lived structures</em> instead of one-off apps.
-      </p>
-      <h4>🛡️ Security & Compliance by-Design / by-Default</h4>
-      <br />
-      <p>
-        👉 <strong>Project board:</strong>
-        <a href="https://github.com/users/YohanGH/projects/9">LexOrbital – Architecture & RGPD by design</a>
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <h4>🧩 Core & Template Repositories</h4>
-      <sub>
-        <strong>Meta-Kernel:</strong> manifests, security patterns, module orchestration, and shared conventions.
-      </sub>
-      <br /><br />
-      <!-- Template module repo card -->
-      <a href="https://github.com/YohanGH/lexorbital-template-module">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-template-module&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
-          alt="LexOrbital Template Module"
-        />
-      </a>
-      <br />
-      <sub>
-        <strong>Standardised environment:</strong> TypeScript, ESLint, Prettier, Husky, conventional commits, SemVer & CI.
-      </sub>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">🧭 What is LexOrbital?</th>
+      <th align="left">🏛️ Core Principles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- LEFT COLUMN -->
+      <td width="50%" valign="top">
+        <p>
+          LexOrbital is a long-term architecture lab: thinking in terms of
+          <strong>contracts, orbits and stable kernels</strong> instead of disposable apps.
+          It unifies <strong>system design</strong>, <strong>security governance</strong>
+          and <strong>developer experience</strong> under a single orbit.
+        </p>
+        <ul>
+          <li>Build once, evolve for years — long-lived structures instead of throwaway MVPs.</li>
+          <li>Each module is a <em>dockable vessel</em>: autonomous yet governed by shared laws.</li>
+          <li>Documentation & diagrams are <strong>first-class citizens</strong>, always in sync.</li>
+        </ul>
+        <p>
+          👉 <strong>Project board:</strong>
+          <a href="https://github.com/users/YohanGH/projects/9">
+            LexOrbital – Architecture &amp; RGPD by design
+          </a>
+        </p>
+      </td>
+      <!-- RIGHT COLUMN -->
+      <td width="50%" valign="top">
+        <ul>
+          <li>
+            <strong>Meta-Kernel:</strong>
+            shared legal & technical backbone (RGPD, manifests, security patterns).
+          </li>
+          <li>
+            <strong>Front / Back Rings:</strong>
+            stable docking surfaces for UI and backend (hexagonal / ports & adapters).
+          </li>
+          <li>
+            <strong>Plug-and-Play Modules:</strong>
+            autonomous, versioned bricks (auth, audit, infra, CI/CD…).
+          </li>
+          <li>
+            <strong>Living Documentation:</strong>
+            manifests drive diagrams & docs — always self-describing.
+          </li>
+          <li>
+            <strong>Security by Design:</strong>
+            governance, RGPD and safety baked into the architecture.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <small>
+          🔭 Part of the <strong>LexOrbital Documentation Core</strong> — a slow,
+          deliberate approach to robust, explainable systems.
+        </small>
+        <br /><br />
+      </td>
+    </tr>
+  </tfoot>
 </table>
+
+
+<br />
+
+<!-- Main Site Call-to-Action -->
+<div align="center">
+  <a href="https://www.lexorbital.com" target="_blank"
+     style="
+       display:inline-block;
+       padding:12px 22px;
+       border-radius:999px;
+       text-decoration:none;
+       font-weight:600;
+       background:linear-gradient(135deg,#7F3FBF,#0D1117);
+       color:#ffffff;
+       border:1px solid #7F3FBF;
+       box-shadow:0 0 18px rgba(127,63,191,0.4);
+     ">
+    🚀 Visit the LexOrbital Station &nbsp;|&nbsp; lexorbital.com
+  </a>
+  <br />
+  <sub>
+    <em>Home base for the Meta-Kernel, modules, diagrams and long-form documentation.</em>
+  </sub>
+</div>
+
+<br />
+
+<!-- Core & Template Repositories (outside the table) -->
+<div align="center">
+
+### 📦 Core & Template Repositories
+
+<a href="https://github.com/YohanGH/lexorbital-module-core">
+  <img
+    width="380"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-module-core&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+    alt="LexOrbital Module Core"
+  />
+</a>
+
+<a href="https://github.com/YohanGH/lexorbital-module-server">
+  <img
+    width="380"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-module-server&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+    alt="LexOrbital Module Server"
+  />
+</a>
+
+<a href="https://github.com/YohanGH/lexorbital-template-module">
+  <img
+    width="380"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-template-module&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+    alt="LexOrbital Template Module"
+  />
+</a>
+
+<a href="https://github.com/YohanGH/lexorbital-template-docs">
+  <img
+    width="380"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-template-docs&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+    alt="LexOrbital Template Docs"
+  />
+</a>
+
+</div>
 
 <br />
 

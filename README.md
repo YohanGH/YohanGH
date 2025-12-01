@@ -245,10 +245,10 @@ Hello World! I'm <a href="https://github.com/YohanGH">YohanGH</a> 👋
 
 ### 📦 Core & Template Repositories
 
-<a href="https://github.com/YohanGH/lexorbital-module-core">
+<a href="https://github.com/YohanGH/lexorbital-core">
   <img
     width="380"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-module-core&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YohanGH&repo=lexorbital-core&cache_seconds=7200&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
     alt="LexOrbital Module Core"
   />
 </a>
